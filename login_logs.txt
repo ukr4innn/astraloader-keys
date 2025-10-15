@@ -74,3 +74,11 @@
 🌍 **Coordinates:** -32,0766, -52,3542
 ⏰ **Timezone:** America/Sao_Paulo
 🖥️ **Hostname:** Unknown
+2025-10-14 21:48:40|ASTRAPROJECT1RJK558SOL|ukr4in|1288697847839068194|**IP:** `179.189.133.3`
+📍 **Location:** Rio Grande, RS (RS), Brazil (BR)
+📮 **Postal Code:** 96200
+🌐 **ISP/Org:** VETORIALNET INF. E SERVIÇOS DE INTERNET LTDA
+🔢 **ASN:** Unknown
+🌍 **Coordinates:** -32,0754, -52,3526
+⏰ **Timezone:** America/Sao_Paulo
+🖥️ **Hostname:** Unknown
